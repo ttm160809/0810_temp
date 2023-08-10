@@ -1,5 +1,15 @@
-# 網頁切版直播班 Vite 範例
+# 35 愛情電商
 
+# 請先 git clone git@github.com:3qberlin/0810_temp.git
+
+# 請同意協作的邀請，同意的流程：
+# https://www.iorad.com/player/2053365/Github---How-to-accept-an-organization-invite-#trysteps-5
+
+# 請於本文件任意下commit，並推上rep環境
+# 請於本文件任意新增branch，並推上rep環境
+# 請使用 Pull requests，新增合併的需求，berlin這裡會審核
+
+# ---- 以下為六角學院 vite 環境介紹 ----
 ## Node.js 版本
   - 專案的 Node.js 版本需為 v16 以上
   - 查看自己版本指令：`node -v`
@@ -46,3 +56,5 @@ git push -u origin main // 僅限第一次輸入，往後只需要輸入 git pus
 ```
 
 3. 初始化完畢後，執行 `npm run deploy` 指令進行自動化部署
+
+
